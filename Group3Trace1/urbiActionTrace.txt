@@ -1,0 +1,382 @@
+Walk for 10 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 10 steps
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Walk for 5 steps
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Headbutt
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Walk for 5 steps
+Idle for 0 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 5 steps
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 10 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Walk for 10 steps
+Idle for 1 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 5 steps
+Idle for 0 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Walk for 10 steps
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Headbutt
+Idle for 0 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Walk for 10 steps
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Headbutt
+Idle for 0 seconds
+Headbutt
+Idle for 0 seconds
+Headbutt
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 10 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 5 steps
+Idle for 0 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 11 steps
+Idle for 1 seconds
+Walk for 9 steps
+Idle for 1 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Walk for 15 steps
+Idle for 1 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Walk for 14 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Headbutt
+Idle for 0 seconds
+Walk for 6 steps
+Idle for 0 seconds
+Walk for 12 steps
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 1 seconds
+Walk for 7 steps
+Idle for 0 seconds
+Walk for 13 steps
+Idle for 1 seconds
+Walk for 8 steps
+Idle for 1 seconds
+Walk for 12 steps
+Idle for 1 seconds
