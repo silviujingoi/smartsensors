@@ -1,0 +1,44 @@
+Walk for 8 steps
+Idle for 82 seconds
+Walk for 13 steps
+Idle for 134 seconds
+Walk for 14 steps
+Idle for 144 seconds
+Headbutt
+Idle for 39 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 83 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 83 seconds
+Walk for 5 steps
+Idle for 51 seconds
+Walk for 14 steps
+Idle for 144 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 83 seconds
+Walk for 15 steps
+Idle for 155 seconds
+Walk for 14 steps
+Idle for 144 seconds
+Walk for 15 steps
+Idle for 155 seconds
+Walk for 13 steps
+Idle for 134 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 83 seconds
+Headbutt
+Idle for 39 seconds
+Walk for 5 steps
+Idle for 51 seconds
+Sit down
+Wait for 1 seconds
+Stand up
+Idle for 83 seconds
